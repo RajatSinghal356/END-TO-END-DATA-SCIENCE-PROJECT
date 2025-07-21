@@ -12,7 +12,7 @@
 
 *MENTOR*:  NEELA SANTOSH
 
-#*Summary of House Price Prediction Project in Jupyter Notebook*
+#*Description of Project in Jupyter Notebook*
 
 This Jupyter Notebook outlines a full data science project workflow focused on predicting house prices using machine learning, from data collection to deployment using Flask. The notebook is organized into several logical parts, making it a comprehensive example of an end-to-end data science pipeline.
 
@@ -46,3 +46,6 @@ To complete the project, the notebook includes preparation steps for deploying t
 
 This Jupyter Notebook successfully demonstrates a full machine learning workflow: from data exploration and cleaning, through feature scaling and model training, to evaluation and deployment. By using both linear and ensemble methods, and integrating deployment practices, it showcases a practical and industry-relevant application of data science. The use of pipelines ensures a modular and reproducible approach, ideal for real-world projects.
 
+#OUTPUT
+
+<img width="1224" height="839" alt="Image" src="https://github.com/user-attachments/assets/88e264dd-0f81-405a-98cf-da5051000b82" />
